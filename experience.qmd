@@ -1,0 +1,18 @@
+---
+toc: FALSE
+---
+
+
+### Bax Intelligence | Seoul, South Korea
+#### Data Analyst | Jun. 2023 – Aug. 2023
+- Analyzed and organized complex datasets to streamline operations.
+- Developed forecasting systems for sales metrics, enhancing strategic decision-making.
+- Conducted statistical validation to ensure the reliability of predictive analytics.
+- Utilized Python for machine learning applications in data analysis projects.
+- [Learn more about Bax Intelligence](https://www.bax.co.kr/)
+
+### Camp Humphreys – 2nd Infantry Division | Pyeongtaek, South Korea
+#### Automated Logistical Specialist | May 2021 – Nov. 2022
+- Managed G-Army system and warehouse operations, improving efficiency and collaboration with the U.S. Army.
+- Facilitated communication as an interpreter, bridging language gaps between military personnel.
+- Enhanced logistics and operational efficiency through data analysis and system management.

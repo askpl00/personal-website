@@ -6,9 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About
+      - href: experience.qmd
+        text: Work Experience
+      - href: course.qmd
+        text: Courses
 format:
   html:
     theme: cosmo

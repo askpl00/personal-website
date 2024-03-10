@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -96,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Work Experience</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./course.html"> 
+    <a class="nav-link active" href="./course.html" aria-current="page"> 
 <span class="menu-text">Courses</span></a>
   </li>  
 </ul>
@@ -112,27 +113,34 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles content">
-  <div class="about-entity">
-    <img src="profile_picture.jpg" class="about-image
-  rounded " style="width: 20em;">
-    <div class="about-links">
-  <a href="https://github.com/askpl00" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="mailto:dgkim9101@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
-</main></div>
-</div>
- <!-- /main -->
+
+
+<section id="courses-taken" class="level3">
+<h3 class="anchored" data-anchor-id="courses-taken">Courses Taken</h3>
+<p>Throughout my Statistics and Data Science program at UCLA, I’ve engaged with a comprehensive curriculum designed to deepen my understanding of statistical theory, computational techniques, and practical applications. Below is a list of courses I’ve taken.</p>
+<ul>
+<li><strong>STATS 100A</strong>: Introduction to Probability</li>
+<li><strong>STATS 100B</strong>: Introduction to Mathematical Statistics</li>
+<li><strong>STATS 101A</strong>: Introduction to Data Analysis and Regression</li>
+<li><strong>STATS 101B</strong>: Design and Analysis of Experiments</li>
+<li><strong>STATS 101C</strong>: Introduction to Regression and Data Mining</li>
+<li><strong>STATS 102A</strong>: Introduction to Computational Statistics with R</li>
+<li><strong>STATS 102B</strong>: Introduction to Computation and Optimization</li>
+<li><strong>STATS 102C</strong>: Monte Carlo Methods</li>
+<li><strong>STATS 133</strong>: Introduction to Text Mining</li>
+<li><strong>STATS 140XP</strong>: Statistics Consulting</li>
+<li><strong>STATS C161</strong>: Introduction to Pattern Recognition</li>
+<li><strong>MATH 115A</strong>: Linear Algebra</li>
+<li><strong>PIC 16B</strong>: Python with Application II <a href="https://askpl00.github.io/BlogPic16B/">View the project website</a></li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -153,6 +161,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

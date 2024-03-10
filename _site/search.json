@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Donggyu Kim",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Courses Taken\nThroughout my Statistics and Data Science program at UCLA, I’ve engaged with a comprehensive curriculum designed to deepen my understanding of statistical theory, computational techniques, and practical applications. Below is a list of courses I’ve taken.\n\nSTATS 100A: Introduction to Probability\nSTATS 100B: Introduction to Mathematical Statistics\nSTATS 101A: Introduction to Data Analysis and Regression\nSTATS 101B: Design and Analysis of Experiments\nSTATS 101C: Introduction to Regression and Data Mining\nSTATS 102A: Introduction to Computational Statistics with R\nSTATS 102B: Introduction to Computation and Optimization\nSTATS 102C: Monte Carlo Methods\nSTATS 133: Introduction to Text Mining\nSTATS 140XP: Statistics Consulting\nSTATS C161: Introduction to Pattern Recognition\nMATH 115A: Linear Algebra\nPIC 16B: Python with Application II View the project website"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Donggyu Kim",
+    "section": "",
+    "text": "Bax Intelligence | Seoul, South Korea\n\nData Analyst | Jun. 2023 – Aug. 2023\n\nAnalyzed and organized complex datasets to streamline operations.\nDeveloped forecasting systems for sales metrics, enhancing strategic decision-making.\nConducted statistical validation to ensure the reliability of predictive analytics.\nUtilized Python for machine learning applications in data analysis projects.\nLearn more about Bax Intelligence\n\n\n\n\nCamp Humphreys – 2nd Infantry Division | Pyeongtaek, South Korea\n\nAutomated Logistical Specialist | May 2021 – Nov. 2022\n\nManaged G-Army system and warehouse operations, improving efficiency and collaboration with the U.S. Army.\nFacilitated communication as an interpreter, bridging language gaps between military personnel.\nEnhanced logistics and operational efficiency through data analysis and system management."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Donggyu Kim",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Currently pursuing a B.S. in Statistics and Data Science at UCLA, I am deeply driven by a curiosity in data and its power to solve complex challenges. My educational journey is complemented by practical experience as a Data Analyst and educator, where I’ve applied my analytical skills in diverse settings. Fluent in English and Korean, I bring a strong foundation in statistical analysis and a commitment to continuous learning and problem-solving.\nAttached is my current CV\n\nEducation\nUniversity of California, Los Angeles\nB.S. in Statistics and Data Science — Sep. 2020 – Jun. 2024\nFoothill College — Apr. 2018 – Jun. 2020"
   }
 ]
