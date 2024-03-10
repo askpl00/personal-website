@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 3fbd16a1-48ec-45cc-bb2f-b6b1df9922b2
+      url: 'https://donggyu-kim-page.netlify.app/'
