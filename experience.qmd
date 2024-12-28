@@ -4,22 +4,21 @@ toc: FALSE
 
 ### DYPNF | Seoul, South Korea
 #### Data Analyst | Aug. 2024 – Present
-- Conducted risk assessments for new projects by analyzing financial and operational data, providing actionable insights to mitigate potential challenges for strategic decision-making
-- Developed predictive models for pneumatic conveying systems to identify maintenance needs and minimize
-system downtime
+- Conducted risk assessments for new projects by analyzing financial and operational data
+- Developed predictive models for pneumatic conveying systems to minimize system downtime
 - Collaborated with the engineering department to collect, preprocess, and analyze operational data
 - Conducted market research for establishing overseas branches in the USA and Dubai
-- Visualized complex datasets and generated reports with Power BI and Python to deliver key insights to support business operations
+- Visualized complex datasets and generated reports with Power BI and Python 
 
 ### Bax Intelligence | Seoul, South Korea
 #### Data Analyst | Jun. 2023 – Aug. 2023
-- Structured data on key metrics such as revenue, asset ratios, and profit margins to optimize decision-making for FNCSP consulting services
-- Assisted in categorizing and analyzing company profiles to enhance the accuracy of corporate growth indexes and forecasting tools used for strategic recommendations
+- Structured data on key metrics such as revenue and profit margins for FNCSP consulting services
+- Categorized company profiles of corporate growth indexes for strategic recommendations system
 - Contributed to the development and visualization of industry-specific statistical reports
 - Applied capsule network techniques through a computer vision project to develop a program that analyzes
-psychological states based on hand-drawn images, improving the reliability of mental health assessments
+psychological states
 
-### Camp Humphreys – US Army 2nd Infantry Division | Pyeongtaek, South Korea
+### Camp Humphreys – US Army 2nd ID | Pyeongtaek, South Korea
 #### Automated Logistical Specialist | May 2021 – Nov. 2022
 - Korean Augmentation to the United States Army (KATUSA)
 - Managed G-Army system and warehouse operations in collaboration with the U.S. Army

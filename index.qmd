@@ -31,7 +31,7 @@ about:
           #url: https://www.webofscience.com/wos/author/record/IZD-6900-2023
         #- text: "{{< ai osf >}} OSF"
           #url: https://osf.io/awhgj
-image: profile_picture_white.jpg
+image: profile3.jpg
 ---
 
 As a recent graduate with a B.S. in Statistics and Data Science from UCLA, I am passionate about leveraging data to address complex challenges and uncover meaningful insights. My academic foundation is enriched by hands-on experience as a Data Analyst and educator, where I honed my analytical and problem-solving skills across diverse projects. Fluent in English and Korean, I am committed to advancing my expertise in data science and machine learning, with a focus on building interpretable and impactful AI solutions.
