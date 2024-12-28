@@ -34,7 +34,7 @@ about:
 image: profile_picture_white.jpg
 ---
 
-Currently pursuing a B.S. in Statistics and Data Science at UCLA, I am deeply driven by a curiosity in data and its power to solve complex challenges. My educational journey is complemented by practical experience as a Data Analyst and educator, where I've applied my analytical skills in diverse settings. Fluent in English and Korean, I bring a strong foundation in statistical analysis and a commitment to continuous learning and problem-solving.
+As a recent graduate with a B.S. in Statistics and Data Science from UCLA, I am passionate about leveraging data to address complex challenges and uncover meaningful insights. My academic foundation is enriched by hands-on experience as a Data Analyst and educator, where I honed my analytical and problem-solving skills across diverse projects. Fluent in English and Korean, I am committed to advancing my expertise in data science and machine learning, with a focus on building interpretable and impactful AI solutions.
 
 Attached is my current [CV](/docs/CV/CV.pdf "CV")
 

@@ -8,14 +8,18 @@ Throughout my Statistics and Data Science program at UCLA, I've engaged with a c
 
 - **STATS 100A**: Introduction to Probability
 - **STATS 100B**: Introduction to Mathematical Statistics
+- **STATS 100C**: Linear Models
 - **STATS 101A**: Introduction to Data Analysis and Regression
 - **STATS 101B**: Design and Analysis of Experiments
 - **STATS 101C**: Introduction to Regression and Data Mining
 - **STATS 102A**: Introduction to Computational Statistics with R
 - **STATS 102B**: Introduction to Computation and Optimization
 - **STATS 102C**: Monte Carlo Methods
+- **STATS C116**: Social Statistics
 - **STATS 133**: Introduction to Text Mining 
-- **STATS 140XP**: Statistics Consulting 
-- **STATS C161**: Introduction to Pattern Recognition 
+- **STATS 140XP**: Statistics Consulting I
+- **STATS 141XP**: Statistics Consulting II
+- **STATS C161**: Introduction to Pattern Recognition and Machine Learning
 - **MATH 115A**: Linear Algebra
+- **PIC 16B**: Python with Application I
 - **PIC 16B**: Python with Application II [View the project website](https://askpl00.github.io/BlogPic16B/) 

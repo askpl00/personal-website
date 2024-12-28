@@ -2,17 +2,27 @@
 toc: FALSE
 ---
 
+### DYPNF | Seoul, South Korea
+#### Data Analyst | Aug. 2024 – Present
+- Conducted risk assessments for new projects by analyzing financial and operational data, providing actionable insights to mitigate potential challenges for strategic decision-making
+- Developed predictive models for pneumatic conveying systems to identify maintenance needs and minimize
+system downtime
+- Collaborated with the engineering department to collect, preprocess, and analyze operational data
+- Conducted market research for establishing overseas branches in the USA and Dubai
+- Visualized complex datasets and generated reports with Power BI and Python to deliver key insights to support business operations
 
 ### Bax Intelligence | Seoul, South Korea
 #### Data Analyst | Jun. 2023 – Aug. 2023
-- Analyzed and organized complex datasets to streamline operations.
-- Developed forecasting systems for sales metrics, enhancing strategic decision-making.
-- Conducted statistical validation to ensure the reliability of predictive analytics.
-- Utilized Python for machine learning applications in data analysis projects.
-- [Learn more about Bax Intelligence](https://www.bax.co.kr/)
+- Structured data on key metrics such as revenue, asset ratios, and profit margins to optimize decision-making for FNCSP consulting services
+- Assisted in categorizing and analyzing company profiles to enhance the accuracy of corporate growth indexes and forecasting tools used for strategic recommendations
+- Contributed to the development and visualization of industry-specific statistical reports
+- Applied capsule network techniques through a computer vision project to develop a program that analyzes
+psychological states based on hand-drawn images, improving the reliability of mental health assessments
 
-### Camp Humphreys – 2nd Infantry Division | Pyeongtaek, South Korea
+### Camp Humphreys – US Army 2nd Infantry Division | Pyeongtaek, South Korea
 #### Automated Logistical Specialist | May 2021 – Nov. 2022
-- Managed G-Army system and warehouse operations, improving efficiency and collaboration with the U.S. Army.
-- Facilitated communication as an interpreter, bridging language gaps between military personnel.
-- Enhanced logistics and operational efficiency through data analysis and system management.
+- Korean Augmentation to the United States Army (KATUSA)
+- Managed G-Army system and warehouse operations in collaboration with the U.S. Army
+- Served as an interpreter and translator between Korean and US military personnel
+- Awarded the U.S. Army's Army Achievement Medal, won the Battalion KATUSA of the Month Competition,
+and recognized as Best Battalion Soldier of the Month.
