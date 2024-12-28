@@ -30,7 +30,10 @@ about:
           #url: https://www.webofscience.com/wos/author/record/IZD-6900-2023
         #- text: "{{< ai osf >}} OSF"
           #url: https://osf.io/awhgj
+
 image: profile3.jpg
+
+
 ---
 
 
